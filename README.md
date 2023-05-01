@@ -1,2 +1,2 @@
 # test-git
-1. git status
+1. git statuss
